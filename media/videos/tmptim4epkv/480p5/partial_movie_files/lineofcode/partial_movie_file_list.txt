@@ -1,4 +1,0 @@
-file 'file:/Users/vamber/Desktop/Essense of Python/media/videos/tmptim4epkv/480p5/partial_movie_files/lineofcode/00000.mp4'
-file 'file:/Users/vamber/Desktop/Essense of Python/media/videos/tmptim4epkv/480p5/partial_movie_files/lineofcode/00001.mp4'
-file 'file:/Users/vamber/Desktop/Essense of Python/media/videos/tmptim4epkv/480p5/partial_movie_files/lineofcode/00002.mp4'
-file 'file:/Users/vamber/Desktop/Essense of Python/media/videos/tmptim4epkv/480p5/partial_movie_files/lineofcode/00003.mp4'

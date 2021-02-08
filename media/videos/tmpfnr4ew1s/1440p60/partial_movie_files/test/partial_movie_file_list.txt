@@ -1,3 +1,0 @@
-file 'file:/Users/vamber/Desktop/Essense of Python/media/videos/tmpfnr4ew1s/1440p60/partial_movie_files/test/00000.mp4'
-file 'file:/Users/vamber/Desktop/Essense of Python/media/videos/tmpfnr4ew1s/1440p60/partial_movie_files/test/00001.mp4'
-file 'file:/Users/vamber/Desktop/Essense of Python/media/videos/tmpfnr4ew1s/1440p60/partial_movie_files/test/00002.mp4'
