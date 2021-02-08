@@ -36,7 +36,7 @@ class Code(VGroup):
         "line_spacing": 0.1,
         "scale_factor": 0.5,
         "run_time": 1,
-        "font": 'Monospac821 BT',
+        "font": 'Fira Code',
         'stroke_width': 0,
         'margin': 0.3,
         'indentation_char': "  ",
@@ -45,8 +45,8 @@ class Code(VGroup):
         'insert_line_no': True,
         'line_no_from': 1,
         "line_no_buff": 0.4,
-        'style': 'vim',
-        'language': 'cpp',
+        'style': 'monokai',
+        'language': 'python',
         'generate_html_file': False
     }
 

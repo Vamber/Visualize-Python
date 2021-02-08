@@ -71,7 +71,7 @@ ITALIC = 'ITALIC'
 OBLIQUE = 'OBLIQUE'
 BOLD = 'BOLD'
 
-TEX_USE_CTEX = False
+TEX_USE_CTEX = True
 TEX_TEXT_TO_REPLACE = "YourTextHere"
 TEMPLATE_TEX_FILE = os.path.join(
     os.path.dirname(os.path.realpath(__file__)),
@@ -136,7 +136,7 @@ MEDIUM_QUALITY_CAMERA_CONFIG = {
 LOW_QUALITY_CAMERA_CONFIG = {
     "pixel_height": 480,
     "pixel_width": 854,
-    "frame_rate": 15,
+    "frame_rate": 5,
 }
 
 DEFAULT_PIXEL_HEIGHT = PRODUCTION_QUALITY_CAMERA_CONFIG["pixel_height"]
